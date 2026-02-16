@@ -1,9 +1,5 @@
 # weather_predictuon
 it consists of sample projects about data analytics and data science 
-Got it 👍
-Here’s a **clean, professional GitHub README.md** for your **Rainfall Prediction / Weather ML Project**.
-
-You can **copy–paste directly into `README.md`**.
 
 ---
 
